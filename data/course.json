@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "4d1e243c-69c6-bc9c-58c7-0feb3434cdad",
+  "instructors": {
+    "content": [
+      "f4fd6714-7aa4-92fa-684d-16f86005f342"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "161b3245-e42d-c6b9-ee16-d321c958b881",
+    "website": "24-947-language-disorders-in-children-spring-2013"
+  },
+  "course_title": "Language Disorders in Children",
+  "course_description": "This seminar focuses on reading and discussion of current linguistic theory, first language acquisition and language disorders in young children. It also focuses on development of a principled understanding of language disorders at the phonological, morphological and syntactic levels, examining ways in which these disorders confront theories of language and acquisition.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.947",
+  "course_image_thumbnail": {
+    "content": "8b460611-a405-d986-c39f-372ab00cd892",
+    "website": "24-947-language-disorders-in-children-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "67de929d-4881-42ce-b767-6ea48d7055b0",
+  "site_short_id": "24.947-spring-2013",
+  "site_url_path": "courses/24-947-language-disorders-in-children-spring-2013",
+  "title": "Course Metadata"
+}
