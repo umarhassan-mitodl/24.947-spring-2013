@@ -4,6 +4,8 @@ description: Lecture presentation providing an overview of language disorders.
 file: /courses/24-947-language-disorders-in-children-spring-2013/448b89c2a0ca7ae16aa7431b7fe36721_MIT24_947S13_OvrviwLnguge.pdf
 file_size: 654488
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture presentation on models and causation of child language diso
 file: /courses/24-947-language-disorders-in-children-spring-2013/511b1ec58257bacc13f2a51b858eb6ac_MIT24_947S13_ModlsLnguage.pdf
 file_size: 553804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

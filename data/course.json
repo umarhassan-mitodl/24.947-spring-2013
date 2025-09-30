@@ -26,6 +26,7 @@
     "website": "24-947-language-disorders-in-children-spring-2013"
   },
   "course_title": "Language Disorders in Children",
+  "hide_download": true,
   "course_description": "This seminar focuses on reading and discussion of current linguistic theory, first language acquisition and language disorders in young children. It also focuses on development of a principled understanding of language disorders at the phonological, morphological and syntactic levels, examining ways in which these disorders confront theories of language and acquisition.\n",
   "department_numbers": [
     "24"
@@ -36,6 +37,7 @@
     "content": "8b460611-a405-d986-c39f-372ab00cd892",
     "website": "24-947-language-disorders-in-children-spring-2013"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments",

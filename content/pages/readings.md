@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of topics discussed in this seminar
   and their accompanying readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: Lecture presentation on autism spectrum disorders.
 file: /courses/24-947-language-disorders-in-children-spring-2013/d78dd5ed3cfd712ef6f9e9b7d8e6807d_MIT24_947S13_AutsmSptmDis.pdf
 file_size: 772543
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
